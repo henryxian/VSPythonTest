@@ -1,3 +1,7 @@
-import this
+import antigravity
 
-print "This is an anti-gravity module %s" % "haha"
+def main():
+    antigravity.fly()
+
+if __name__ == 'main':
+    main()
